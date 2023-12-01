@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.10.1",
+    "inquirer": "^9.2.12"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
